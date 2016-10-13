@@ -9,7 +9,11 @@
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
   :LAST_REPEAT: [2016-10-13 四 16:36]
   :END:
+  :LOGBOOK:
+  CLOCK: [2016-10-13 四 17:39]--[2016-10-13 四 17:45] =>  0:06
+  :END:
   - State "TODO"       from "DONE"       [2016-10-13 四 16:37]
     awesome
+  - State "TODO"       from "DONE"       [2016-10-13 四 17:45]
 
 * TODO read 这书能让你戒烟<The Easy Way to Stop Smoking>
