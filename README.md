@@ -8,4 +8,5 @@ manage my smoking life in org-mode
 
 - emacs 
 - org-mode + org-habit + org-todo
+- magit
 - pomodoro
