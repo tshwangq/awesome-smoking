@@ -1,2 +1,2 @@
 # awesome-smoking
-smoking habit
+manage my smoking life in org-mode
