@@ -1,0 +1,14 @@
+#+TITLE: awesome smoking
+#+AUTHOR: Qun Wang <tshwangq@gmail.com>
+
+
+* TODO awesome smoking                                              :smoking:
+  SCHEDULED: <2016-10-13 四 .+1h>
+  :PROPERTIES:
+  :STYLE:    habit
+  :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
+  :LAST_REPEAT: [2016-10-13 四 16:36]
+  :END:
+  - State "TODO"       from "DONE"       [2016-10-13 四 16:37]
+    awesome
+
