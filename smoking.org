@@ -9,6 +9,9 @@
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
   :LAST_REPEAT: [2016-10-13 四 16:36]
   :END:
+  - State "TODO"       from "DONE"       [2016-10-14 五 18:52]
+    饭后一根烟呀
+  - State "TODO"       from "DONE"       [2016-10-14 五 17:18]
   - State "TODO"       from "DONE"       [2016-10-14 五 15:34]
       犯困抽一根
   - State "TODO"       from "DONE"       [2016-10-14 五 14:43]
