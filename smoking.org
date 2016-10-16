@@ -9,6 +9,11 @@
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
   :LAST_REPEAT: [2016-10-13 四 16:36]
   :END:
+  - State "TODO"       from "DONE"       [2016-10-16 日 11:53]
+  - State "TODO"       from "DONE"       [2016-10-16 日 10:53]
+  - State "TODO"       from "DONE"       [2016-10-16 日 09:53]
+  - State "TODO"       from "DONE"       [2016-10-16 日 08:53]
+  - State "TODO"       from "DONE"       [2016-10-16 日 08:23]
   - State "TODO"       from "DONE"       [2016-10-15 六 17:37]
   - State "TODO"       from "DONE"       [2016-10-15 六 15:07]
   - State "TODO"       from "DONE"       [2016-10-15 六 12:03]
@@ -46,4 +51,5 @@
 |------------+-------|
 | 2016-10-13 |    10 |
 | 2016-10-14 |     8 |
+| 2016-10-15 |    12 |
 |            |       |
