@@ -3,12 +3,23 @@
 
 
 * TODO awesome smoking                                              :smoking:
-  SCHEDULED: <2016-10-13 四 .+1h>
+  SCHEDULED: <2016-10-16 日 +1d>
   :PROPERTIES:
   :STYLE:    habit
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
   :LAST_REPEAT: [2016-10-13 四 16:36]
   :END:
+  - State "TODO"       from "DONE"       [2016-10-18 二 12:39]
+  - State "TODO"       from "DONE"       [2016-10-18 二 12:00]
+  - State "TODO"       from "DONE"       [2016-10-18 二 11:00]
+  - State "TODO"       from "DONE"       [2016-10-18 二 10:10]
+  - State "TODO"       from "DONE"       [2016-10-18 二 09:00]
+  - State "TODO"       from "DONE"       [2016-10-18 二 08:20]
+  - State "TODO"       from "DONE"       [2016-10-17 一 13:28]
+  - State "TODO"       from "DONE"       [2016-10-17 一 12:28]
+  - State "TODO"       from "DONE"       [2016-10-17 一 11:28]
+  - State "TODO"       from "DONE"       [2016-10-17 一 09:10]
+  - State "TODO"       from "DONE"       [2016-10-17 一 08:30]
   - State "TODO"       from "DONE"       [2016-10-16 日 11:53]
   - State "TODO"       from "DONE"       [2016-10-16 日 10:53]
   - State "TODO"       from "DONE"       [2016-10-16 日 09:53]
