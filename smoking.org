@@ -3,12 +3,15 @@
 
 
 * TODO awesome smoking                                              :smoking:
-  SCHEDULED: <2016-10-16 日 +1d>
+  SCHEDULED: <2016-10-19 三 +1d>
   :PROPERTIES:
   :STYLE:    habit
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
   :LAST_REPEAT: [2016-10-13 四 16:36]
   :END:
+  - State "TODO"       from "DONE"       [2016-10-21 五 11:43]
+  - State "TODO"       from "DONE"       [2016-10-21 五 10:43]
+  - State "TODO"       from "DONE"       [2016-10-21 五 10:13]
   - State "TODO"       from "DONE"       [2016-10-18 二 12:39]
   - State "TODO"       from "DONE"       [2016-10-18 二 12:00]
   - State "TODO"       from "DONE"       [2016-10-18 二 11:00]
@@ -56,6 +59,32 @@
 
 * TODO read 这书能让你戒烟<The Easy Way to Stop Smoking>
 
+
+* Stop Smoking Benefits Timetable
+Within ...
+ 
+- 20 minutes - Your blood pressure, pulse rate and the temperature of your hands and feet have returned to normal.
+- 8 hours - Remaining nicotine in your bloodstream will have fallen to 6.25% of normal peak daily levels, a 93.75% reduction.
+- 12 hours - Your blood oxygen level will have increased to normal and carbon monoxide levels will have dropped to normal.
+- 24 hours - Anxieties have peaked in intensity and within two weeks should return to near pre-cessation levels.
+- 48 hours - Damaged nerve endings have started to regrow and your sense of smell and taste are beginning to return to normal. Cessation anger and irritability will have peaked.
+- 72 hours - Your entire body will test 100% nicotine-free and over 90% of all nicotine metabolites (the chemicals it breaks down into) will now have passed from your body via your urine.  Symptoms of chemical withdrawal have peaked in intensity, including restlessness. The number of cue induced crave episodes experienced during any quitting day will peak for the "average" ex-user. Lung bronchial tubes leading to air sacs (alveoli) are beginning to relax in recovering smokers. Breathing is becoming easier and the lung's functional abilities are starting to increase.
+- 5 - 8 days - The "average" ex-smoker will encounter an "average" of three cue induced crave episodes per day. Although we may not be "average" and although serious cessation time distortion can make minutes feel like hours, it is unlikely that any single episode will last longer than 3 minutes. Keep a clock handy and time them.
+- 10 days - 10 days - The "average" ex-user is down to encountering less than two crave episodes per day, each less than 3 minutes.
+- 10 days to 2 weeks - Recovery has likely progressed to the point where your addiction is no longer doing the talking. Blood circulation in your gums and teeth are now similar to that of a non-user.
+- 2 to 4 weeks - Cessation related anger, anxiety, difficulty concentrating, impatience, insomnia, restlessness and depression have ended. If still experiencing any of these symptoms get seen and evaluated by your physician.
+- 21 days - Brain acetylcholine receptor counts that were up-regulated in response to nicotine's presence have now down-regulated and receptor binding has returned to levels seen in the brains of non-smokers.
+- 2 weeks to 3 months - Your heart attack risk has started to drop. Your lung function is beginning to improve.
+- 3 weeks to 3 months - Your circulation has substantially improved. Walking has become easier. Your chronic cough, if any, has likely disappeared. If not, get seen by a doctor, and sooner if at all concerned, as a chronic cough can be a sign of lung cancer.
+- 8 weeks - Insulin resistance in smokers has normalized despite average weight gain of 2.7 kg (1997 study).
+- 1 to 9 months - Any smoking related sinus congestion, fatigue or shortness of breath have decreased. Cilia have regrown in your lungs, thereby increasing their ability to handle mucus, keep your lungs clean and reduce infections. Your body's overall energy has increased.
+- 1 year - Your excess risk of coronary heart disease, heart attack and stroke have dropped to less than half that of a smoker.
+- 5 years - Your risk of a subarachnoid haemorrhage has declined to 59% of your risk while still smoking (2012 study). If a female ex-smoker, your risk of developing diabetes is now that of a non-smoker (2001 study).
+- 5 to 15 years - Your risk of stroke has declined to that of a non-smoker.
+- 10 years - Your risk of being diagnosed with lung cancer is between 30% and 50% of that for a continuing smoker (2005 study). Risk of death from lung cancer has declined by almost half if you were an average smoker (one pack per day).  Risk of cancer of the mouth, throat, esophagus and pancreas have declined. Risk of developing diabetes for both men and women is now similar to that of a never-smoker (2001 study and 2012 study).
+- 13 years - The average smoker able to live to age 75 has 5.8 fewer teeth than a non-smoker (1998 study). But by year 13 after quitting, your risk of smoking induced tooth loss has declined to that of a never-smoker (2006 study).
+- 15 years - Your risk of coronary heart disease is now that of a person who has never smoked. Your risk of pancreatic cancer has declined to that of a never-smoker (2011 study - but note 2nd pancreatic making identical finding at 20 years).
+- 20 years - Female excess risk of death from all smoking related causes, including lung disease and cancer, has now reduced to that of a never-smoker (2008 study). Risk of pancreatic cancer reduced to that of a never-smoker (2011 study).
 * count
 
 |        day | total |
