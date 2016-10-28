@@ -3,12 +3,18 @@
 
 
 * TODO awesome smoking                                              :smoking:
-  SCHEDULED: <2016-10-20 四 +1d>
+  SCHEDULED: <2016-10-26 三 +1d>
   :PROPERTIES:
   :STYLE:    habit
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
   :LAST_REPEAT: [2016-10-13 四 16:36]
   :END:
+  - State "TODO"       from "DONE"       [2016-10-21 五 20:39]
+  - State "TODO"       from "DONE"       [2016-10-21 五 19:33]
+  - State "TODO"       from "DONE"       [2016-10-21 五 18:33]
+  - State "TODO"       from "DONE"       [2016-10-21 五 17:38]
+  - State "TODO"       from "DONE"       [2016-10-21 五 15:32]
+  - State "TODO"       from "DONE"       [2016-10-21 五 14:50]
   - State "TODO"       from "DONE"       [2016-10-21 五 12:25]
   - State "TODO"       from "DONE"       [2016-10-21 五 11:43]
   - State "TODO"       from "DONE"       [2016-10-21 五 10:43]
@@ -58,8 +64,10 @@
     awesome
   - State "TODO"       from "DONE"       [2016-10-13 四 17:45]
 
-* TODO read 这书能让你戒烟<The Easy Way to Stop Smoking>
 
+* read 这书能让你戒烟<The Easy Way to Stop Smoking>
+  SCHEDULED: <2016-10-28 五 +1d>
+  开始阅读本书
 
 * Stop Smoking Benefits Timetable
 Within ...
@@ -197,3 +205,15 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
 
 
 ** 抽烟场景
+
+* phase I
+** DONE 记录吸烟
+   CLOSED: [2016-10-28 五 13:39]
+   - CLOSING NOTE [2016-10-28 五 13:39]
+** DONE 探索戒烟方法
+   CLOSED: [2016-10-28 五 13:39]
+   - CLOSING NOTE [2016-10-28 五 13:39]
+
+* phase II
+** TODO 专心阅读戒烟书
+** TODO 准备戒烟
