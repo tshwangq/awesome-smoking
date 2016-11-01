@@ -65,8 +65,9 @@
   - State "TODO"       from "DONE"       [2016-10-13 四 17:45]
 
 
-* read 这书能让你戒烟<The Easy Way to Stop Smoking>
-  SCHEDULED: <2016-10-28 五 +1d>
+* DONE read 这书能让你戒烟<The Easy Way to Stop Smoking>
+  CLOSED: [2016-10-31 一 19:53] SCHEDULED: <2016-10-28 五 +1d>
+  - CLOSING NOTE [2016-10-31 一 19:53]
   开始阅读本书
 
 * Stop Smoking Benefits Timetable
