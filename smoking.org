@@ -216,5 +216,20 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
    - CLOSING NOTE [2016-10-28 五 13:39]
 
 * phase II
-** TODO 专心阅读戒烟书
-** TODO 准备戒烟
+** DONE 专心阅读戒烟书
+   CLOSED: [2016-11-01 二 20:19]
+   - CLOSING NOTE [2016-11-01 二 20:19]
+** DONE 准备戒烟
+   CLOSED: [2016-11-01 二 20:19]
+   - CLOSING NOTE [2016-11-01 二 20:19]
+
+* phase III
+** no-smoker? non-smoking? smokerless?  
+
+** TODO keep daily punch from now on 
+   SCHEDULED: <2016-11-02 三 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2016-11-01 二 20:21]
+   :END:
+   - CLOSING NOTE [2016-11-01 二 20:21]
+   - CLOSING NOTE [2016-11-01 二 20:20]
