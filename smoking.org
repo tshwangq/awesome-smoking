@@ -227,10 +227,17 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
 ** no-smoker? non-smoking? smokerless?  
 
 ** TODO keep daily punch from now on 
-   SCHEDULED: <2016-11-04 五 +1d>
+   SCHEDULED: <2016-11-05 六 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-11-03 四 11:41]
+   :LAST_REPEAT: [2016-11-07 一 22:24]
    :END:
+   - CLOSING NOTE [2016-11-07 一 22:24] \\
+     持续３６个小时没有抽烟．　
+     这次的经历有两个有意思的点，
+     第一，　这本书可以让你戒烟里面隐含的潜意识的逻辑
+     第二，　乐只这个ａｐｐ，在恰当的时候出现了，冥想本身也是意识层面的东西．　
+     
+     道理都有一定的相通性，　也很互补．　
    - CLOSING NOTE [2016-11-03 四 11:41] \\
      第三天，上午在之前早上起床的固定时间比较想抽烟．
      一上午工作繁忙，几乎没有想法
