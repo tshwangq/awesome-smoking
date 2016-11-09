@@ -95,6 +95,15 @@ Within ...
 - 13 years - The average smoker able to live to age 75 has 5.8 fewer teeth than a non-smoker (1998 study). But by year 13 after quitting, your risk of smoking induced tooth loss has declined to that of a never-smoker (2006 study).
 - 15 years - Your risk of coronary heart disease is now that of a person who has never smoked. Your risk of pancreatic cancer has declined to that of a never-smoker (2011 study - but note 2nd pancreatic making identical finding at 20 years).
 - 20 years - Female excess risk of death from all smoking related causes, including lung disease and cancer, has now reduced to that of a never-smoker (2008 study). Risk of pancreatic cancer reduced to that of a never-smoker (2011 study).
+
+* 戒烟综合症
+** 失眠
+*** no coffee
+*** 洗个热水澡
+*** 花草茶
+*** 热牛奶
+
+
 * count
 
 |        day | total |
