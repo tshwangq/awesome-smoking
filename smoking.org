@@ -2,13 +2,14 @@
 #+AUTHOR: Qun Wang <tshwangq@gmail.com>
 
 
-* TODO awesome smoking                                              :smoking:
-  SCHEDULED: <2016-10-26 三 +1d>
+* DONE awesome smoking                                              :smoking:
+  SCHEDULED: <2016-10-26 三>
   :PROPERTIES:
   :STYLE:    habit
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
   :LAST_REPEAT: [2016-10-13 四 16:36]
   :END:
+  - State "DONE"       from "TODO"       [2016-11-09 三 16:51]
   - State "TODO"       from "DONE"       [2016-10-21 五 20:39]
   - State "TODO"       from "DONE"       [2016-10-21 五 19:33]
   - State "TODO"       from "DONE"       [2016-10-21 五 18:33]
@@ -237,10 +238,14 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
 
 
 * TODO keep daily punch from now on
-   SCHEDULED: <2016-11-07 一 +1d>
+   SCHEDULED: <2016-11-08 二 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-11-09 三 14:13]
+   :LAST_REPEAT: [2016-11-10 四 10:40]
    :END:
+   - CLOSING NOTE [2016-11-10 四 10:40] \\
+     72+24 =  96 hrs
+     一点一点时间的积累还是很有成就感的．
+     不过失眠厉害了，　５点多就醒了．　不敢喝茶，喝咖啡了．　
    - CLOSING NOTE [2016-11-09 三 14:13] \\
      这两天开始出现失眠，或者睡觉中断．
      很难入睡，　睡了几个小时就醒．　现在居然早上七点不到就能睁开双眼．
