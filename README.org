@@ -4,20 +4,20 @@
 * awesome-smoking
 manage my smoking life in org-mode
 
-** updates logs
-- 我开始用orgmode + git 来管理我的香烟人生了。先订个小目标把抽烟(🚬)版本化，再考虑戒烟(🚭). for details, please check smoking.org
-
-- 调整readme
-
-- [2016-11-10] 想不到已经进入戒烟９６个小时了．目前来看，版本化策略非常成功，给我足够的时间思考和探索有哪些戒烟的方法． 也给了足够的过渡时间
-
-
 ** tech stack
 
 - emacs
 - org-mode + org-habit + org-todo
 - magit
 - pomodoro
+- 乐只app
+
+** updates logs
+- 我开始用orgmode + git 来管理我的香烟人生了。先订个小目标把抽烟(🚬)版本化，再考虑戒烟(🚭). for details, please check smoking.org
+
+- 调整readme
+
+- [2016-11-10] 想不到已经进入戒烟９６个小时了．目前来看，版本化策略非常成功，给我足够的时间思考和探索有哪些戒烟的方法． 也给了足够的过渡时间
 
 
 * DONE awesome smoking                                              :smoking:
