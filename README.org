@@ -2,7 +2,7 @@
 #+AUTHOR: Qun Wang <tshwangq@gmail.com>
 
 * awesome-smoking
-manage my smoking life in org-mode
+manage my smoking/non-smoking life in org-mode
 
 ** tech stack
 
@@ -17,7 +17,7 @@ manage my smoking life in org-mode
 
 - 调整readme
 
-- [2016-11-10] 想不到已经进入戒烟９６个小时了．目前来看，版本化策略非常成功，给我足够的时间思考和探索有哪些戒烟的方法． 也给了足够的过渡时间
+- [2016-11-10] 想不到已经作为非吸烟者９６个小时了．目前来看，版本化策略非常成功，给我足够的时间思考和探索有哪些戒烟的方法． 也给了足够的过渡时间
 
 
 * DONE awesome smoking                                              :smoking:
