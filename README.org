@@ -256,10 +256,12 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
 
 
 * TODO keep daily punch from now on
-   SCHEDULED: <2016-11-08 二 +1d>
+   SCHEDULED: <2016-11-09 三 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-11-10 四 10:40]
+   :LAST_REPEAT: [2016-11-11 五 13:37]
    :END:
+   - CLOSING NOTE [2016-11-11 五 13:37] \\
+     120hrs on the way!
    - CLOSING NOTE [2016-11-10 四 10:40] \\
      72+24 =  96 hrs
      一点一点时间的积累还是很有成就感的．
