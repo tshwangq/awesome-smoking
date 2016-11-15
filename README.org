@@ -255,11 +255,14 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
 ** no-smoker? non-smoking? smokerless?
 
 
-* TODO keep daily punch from now on
-   SCHEDULED: <2016-11-09 三 +1d>
+n* TODO keep daily punch from now on
+   SCHEDULED: <2016-11-10 四 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-11-11 五 13:37]
+   :LAST_REPEAT: [2016-11-15 二 17:48]
    :END:
+   - CLOSING NOTE [2016-11-15 二 17:48] \\
+     昨日因为应酬抽烟２根．　打卡记录无情终端．
+     目前24hrs
    - CLOSING NOTE [2016-11-11 五 13:37] \\
      120hrs on the way!
    - CLOSING NOTE [2016-11-10 四 10:40] \\
