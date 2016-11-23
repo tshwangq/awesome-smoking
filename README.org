@@ -256,10 +256,13 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
 
 
 ** TODO keep daily punch from now on
-   SCHEDULED: <2016-11-11 五 +1d>
+   SCHEDULED: <2016-11-12 六 +1d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-11-18 五 10:23]
+   :LAST_REPEAT: [2016-11-23 三 21:02]
    :END:
+   - CLOSING NOTE [2016-11-23 三 21:02] \\
+     这个月已经第２３天了．　虽然中间因为特殊原因抽了３根．
+     但是整体非常好．　感觉抽烟如昨日．　
    - CLOSING NOTE [2016-11-18 五 10:23] \\
      4days from last 2 cigarettes
      现在已经只是偶尔感觉想抽根烟了
