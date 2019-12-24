@@ -19,6 +19,8 @@ manage my smoking/non-smoking life in org-mode
 
 - [2016-11-10] 想不到已经作为非吸烟者９６个小时了．目前来看，版本化策略非常成功，给我足够的时间思考和探索有哪些戒烟的方法． 也给了足够的过渡时间
 
+- [2019-12-24] 当前这个时间段，比较适合重启戒烟，一个月戒断，过年就可以交付版本了，这个人生的项目一定要达到里程碑!
+
   
 * DONE awesome smoking                                              :smoking:
   SCHEDULED: <2016-10-26 三>
@@ -241,7 +243,7 @@ Sacrifice牺牲, Obsession执念, 然后才有致命魔术的Prestige.
 * phase V
 2018.04.14 准确重启戒烟...
 
-* TODO time river 
+* TODO time river  phase VI
   :LOGBOOK:
   CLOCK: [2019-12-24 二 10:00]
   :END:
