@@ -1,5 +1,6 @@
 #+TITLE: awesome smoking
 #+AUTHOR: Qun Wang <tshwangq@gmail.com>
+#+CATEGORY: smoking
 
 * awesome-smoking
 manage my smoking/non-smoking life in org-mode
@@ -23,7 +24,7 @@ manage my smoking/non-smoking life in org-mode
 
   
 * DONE awesome smoking                                              :smoking:
-  SCHEDULED: <2016-10-26 三>
+  SCHEDULED: <2016-10-26 三 .+1d>
   :PROPERTIES:
   :STYLE:    habit
   :LOGGING: TODO(!) WAIT(!) DONE(!) CANCELED(!)
@@ -87,7 +88,7 @@ manage my smoking/non-smoking life in org-mode
 
 
 * DONE read 这书能让你戒烟<The Easy Way to Stop Smoking>
-  CLOSED: [2016-10-31 一 19:53] SCHEDULED: <2016-10-28 五 +1d>
+  CLOSED: [2016-10-31 一 19:53] 
   - CLOSING NOTE [2016-10-31 一 19:53]
   开始阅读本书
 
